@@ -35,7 +35,7 @@ Make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/S-Trivedii/internshala-online-library.git
+git clone https://github.com/S-Trivedii/Internshala-online-library-system.git
 cd online-library-system
 ```
 
